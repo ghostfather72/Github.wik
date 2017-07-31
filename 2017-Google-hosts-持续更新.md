@@ -7,7 +7,7 @@
 1. * iPhone（iOS）系统hosts位于 /etc/hosts
 1. * Linux系统hosts位于 /etc/hosts
 1. * 绝大多数Unix系统都是在 /etc/hosts
-
+![图片](http://img.pc841.com/2016/0415/20160415053818269.jpg)
 
 **[下载地址](https://pan.baidu.com/s/1dFBzej3)**
 
