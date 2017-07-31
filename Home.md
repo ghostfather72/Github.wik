@@ -29,6 +29,8 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 
 下载地址（5.5.4简体中文Windows版），默认配置了使用微软meek插件，可根据情况自行调整）：
 
+![图](http://static.oschina.net/uploads/code/201408/05182849_i2T8.gif)
+
 下载地址[MEGA网盘下载](https://mega.nz/#!qt8jlZKY!ghTGutXjo_rkDyG6ClSaCEroFx6UvoDSjiGk9RefXds)
 
 本文地址:https://github.com/gugejun/luan/wiki
