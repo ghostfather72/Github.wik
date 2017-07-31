@@ -1,8 +1,22 @@
-### 永久免费。不用安装，无需设置，解压后使用。稳定、流畅、高速。
+# 永久免费。不用安装，无需设置，解压后使用。稳定、流畅、高速。
 
 提醒：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。多备用几款翻墙软件有好处，以备不时之需。
 
 注意：本软件都是采用加密方式的，但为了更加安全，建议翻墙时不要使用国产杀毒软件，因为有的国产杀毒软件，比如360，腾讯管家与防火墙有千丝万缕的关系。当然，卸载国产杀毒软件就是最好的选择了，现在国外好用的免费杀毒软件也挺多的，网上一搜就有好多。
 
 
-![图片](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiXp4nP07PVAhXKbbwKHf4lCAEQjRwIBw&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%65%70%6f%63%68%74%69%6d%65%73%2e%63%6f%6d%2f%67%62%2f%31%36%2f%37%2f%32%37%2f%6e%38%31%34%33%33%36%31%2e%68%74%6d&psig=AFQjCNFKjV2oiTpOr_Ru0hTmLFUhqLj_zA&ust=1501595003488018)
+![图片](http://info.wenweipo.com/attachments/2015/11/1000076_201511151914051dJDL.jpg)
+
+### 注意:此软件只适用于win7
+
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+![图](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOP1.png)
+更新完ip_Update文件夹里面的ip100%之后，便可一键启动
+
+另外为了电脑瘦身，附加`**系统清理脚本**`一份
+
+[百度云网盘下载](https://pan.baidu.com/s/1hrFg24O)密码：ht4f 
+_第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页_
+
+## 本文地址:https://github.com/gugejun/luan/wiki
