@@ -15,3 +15,5 @@ Hotspot VPN 设计简单，功能强大。只需在应用上轻轻一点，您�
 [Hotspot VPN翻墙app下载链接1](https://apkpure.com/hotspot-vpn/com.hotspotvpn.android/download?from=details)
 
 [Hotspot VPN翻墙app下载链接2](http://apk-downloaders.com/download/dl.php?dl=com.hotspotvpn.android)
+
+## 本文地址:https://github.com/gugejun/luan/wiki
