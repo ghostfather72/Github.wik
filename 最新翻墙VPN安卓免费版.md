@@ -106,3 +106,5 @@ Android系统版本要求
 
 1. [翻墙VPN免费版直接下载链接1](https://apkpure.com/%E7%BF%BB%E5%A2%99-vpn%EF%BC%88%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89/lantern.super.a201705231136.vpn/download?from=details)
 1. [翻墙VPN免费版直接下载链接2](https://apps.evozi.com/apk-downloader/?id=lantern.super.a201705231136.vpn)
+
+## 本文地址:https://github.com/gugejun/luan/wiki
