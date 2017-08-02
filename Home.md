@@ -1,4 +1,4 @@
-### > [Home](http://haixing-hu.github.io/gift-to-lover/repo/src/index.html) > [主页](https://github.com/gugejun)  > [主题曲](http://music.163.com/#/m/song?id=2081057&userid=450862554)                                                            
+### > [Home](http://haixing-hu.github.io/gift-to-lover/repo/src/index.html) > [主页](https://github.com/gugejun)  > [主题曲](http://music.163.com/#/m/playlist?id=692839474&userid=450862554)                                                            
  
  
 ![图](http://pic.qiantucdn.com/58pic/19/99/20/56k58PIC8qu_1024.jpg)
