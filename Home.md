@@ -63,3 +63,19 @@
 * [TeXstudio](http://www.texstudio.org/) - 集成创建LaTeX文档的写作环境
 * [Vagrant](https://www.vagrantup.com/) - 用来构建虚拟开发环境的工具
 * [LaunchRocket ](https://github.com/jimbojsb/launchrocket)- brew services management in Mac System Preferences
+### 科学上网
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理
+* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件
+* [Lantern](https://getlantern.org/) - 科学上网
+* [Tunnelbear](https://www.tunnelbear.com/) - 简单的私人VPN
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件
+* [GoAgentX ](https://github.com/OldFrank/GoAgentX)- 科学上网
+* [二师兄VPN ](http://www.2-vpn4.cc/home.action)- 提供无限流量、无限续期免费VPN账号
+* [WiseVPN](https://www.wisevpn.net/) - 无限流量，免费VPN
+*[ 风驰VPN ](http://fengchinet2.com/)- 无限流量、无限续期的免费VPN加速服务
+* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器
+* [PlutoX ](https://www.plutox.top/)- 一款网络调试工具，科学上网工具
+* [tinc ](https://www.tinc-vpn.org/)- VPN软件
+* [Shimo ](https://www.shimovpn.com/)- 连接大量VPN的应用
+* [V2Ray](https://www.v2ray.com/) - 原生支持Socks、HTTP、Shadowsocks、VMess 等协议
