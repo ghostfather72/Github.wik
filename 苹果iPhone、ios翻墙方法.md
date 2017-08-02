@@ -32,6 +32,8 @@
  推荐服务器，速度飞快，SLA可用性99.99% ： http://www.vultr.com/?ref=6999340
 搭配锐速，网页打开速度翻十倍，效果更加。
 
+> Hotspot VPN[免费不限流量翻墙app下载](https://itunes.apple.com/cn/app/hotspot-vpn-mian-fei-bu-xian/id1121846465?mt=8)
 
+> 赛风ios版翻墙浏览器[下载](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)
 
 本文地址:https://github.com/gugejun/luan/wiki
