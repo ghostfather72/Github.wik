@@ -22,8 +22,7 @@
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/debian-squid.conf 
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/jw.pac
-> http://pac.itzmx.com/abc.pac            帐号：root        密码：pac.itzmx.com
-
+> http://pac.itzmx.com/abc.pac  帐号：root   密码：pac.itzmx.com
 > https://pac.mcplay.cn/jp.pac
 > https://pac.jike.info/py.pac
 > https://pac.jike.info/ak.pac> 
