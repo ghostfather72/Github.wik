@@ -22,6 +22,12 @@
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/debian-squid.conf 
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/jw.pac
+> http://pac.itzmx.com/abc.pac            帐号：root        密码：pac.itzmx.com
+> https://pac.mcplay.cn/jp.pac
+> https://pac.jike.info/py.pac
+> https://pac.jike.info/ak.pac> 
+> https://pac.jike.info/ji.pac
+> https://raw.githubusercontent.com/kgfw/fg/master/pac/cfu.pac
 
 
  推荐服务器，速度飞快，SLA可用性99.99% ： http://www.vultr.com/?ref=6999340
