@@ -22,7 +22,9 @@
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/debian-squid.conf 
 > https://raw.githubusercontent.com/bannedbook/fanqiang/master/jwpac/jw.pac
-> 推荐服务器，速度飞快，SLA可用性99.99% ： http://www.vultr.com/?ref=6999340
+
+
+ 推荐服务器，速度飞快，SLA可用性99.99% ： http://www.vultr.com/?ref=6999340
 搭配锐速，网页打开速度翻十倍，效果更加。
 
 
