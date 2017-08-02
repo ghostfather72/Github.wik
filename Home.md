@@ -51,3 +51,15 @@
 * [EnvPane](https://github.com/hschmidt/EnvPane) - 图形终端查看环境变量的应用工具
 * [Dash](https://kapeli.com/dash)- 强大到你无法想象的API离线文档软件
 * [Dlite ](https://github.com/nlf/dlite)- 简单的使用Docker的一个软件
+* [SnippetsLab ](https://www.renfei.org/snippets-lab/)- 管理和组织你的代码片段
+* [StarUML ](http://staruml.io/)- 强大的软件建模软件
+* [Vagrant Manager](http://vagrantmanager.com/) - 管理你本地服务
+*  [FindrrGo](https://github.com/onmyway133/FinderGo)Finder中快速打开终端，定位到目录
+* [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限
+* [zeplin](https://www.zeplin.io/) - 前端与设计协同工作专用工具
+* [Go2Shell ](http://zipzapmac.com/Go2Shell)- 从Finder打开命令行
+* [SecureCRT ](https://www.vandyke.com/products/securecrt/)- 一款支持SSH、Telnet等多种协议的终端仿真程序
+* [MJML ](https://mjmlio.github.io/mjml-app/)- 简化设计回应电子邮件的方式
+* [TeXstudio](http://www.texstudio.org/) - 集成创建LaTeX文档的写作环境
+* [Vagrant](https://www.vagrantup.com/) - 用来构建虚拟开发环境的工具
+* [LaunchRocket ](https://github.com/jimbojsb/launchrocket)- brew services management in Mac System Preferences
