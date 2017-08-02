@@ -1,2 +1,2 @@
 ![图](http://pic.qiantucdn.com/58pic/19/99/20/56k58PIC8qu_1024.jpg)
-<embed src="//music.163.com/style/swf/widget.swf?sid=1299923&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+[图](http://haixing-hu.github.io/gift-to-lover/repo/src/index.html)
