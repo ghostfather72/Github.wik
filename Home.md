@@ -86,4 +86,28 @@
 * 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
 * 少数派：http://sspai.com/tag/Mac
 * Mac玩儿法：http://www.waerfa.com
-
+### 工具
+* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具
+* [Image2icon](http://www.img2icnsapp.com/) - 将你的图片转换成图标
+* [ImageAlpha ](https://pngmini.com/)- 压缩PNG图片，去掉无效的透明
+* [ImageOptim](https://imageoptim.com/mac) - 压缩图片，删除EXIF信息
+* [Sip ](http://theolabrothers.com/)- 收集，整理和分享你的颜色拾色器
+* [马克鳗 ](http://getmarkman.com/)- 高效的设计稿标注、测量工具
+* [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器
+* [ColorSchemer](http://www.colorschemer.com/) - 专业的配色、调色软件
+* [IconKit ](http://appersian.net/)- App图标自动生成器
+* [GifCapture](https://github.com/onmyway133/GifCapture) 开源 macOS 截屏生成 Gif 工具
+* [APNGb](https://github.com/mancunianetz/APNGb) - 编辑apng图片格式的软件
+* [Licecap](https://www.cockos.com/licecap/) - 是一款屏幕录制工具输出GIF，录制过程中可以随意改变录屏范围
+* [Kap ](https://getkap.co/)- 轻量 GIF 录屏小工具
+* [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - 免费软件的捕捉和分享图片在桌面上
+* [Skitch -](https://evernote.com/intl/zh-cn/products/skitch) 截图附带强大的标注功能
+* [Teampaper Snap](http://teampaper.me/snap/) - 为设计师量身定做的屏幕截图兼注释工具
+* [Monosnap ](https://monosnap.com/welcome)- 制作截图，录制视频共享文件
+* [截图(Jietu) ](http://jietu.qq.com/)- 截图附带强大的标注功能，腾讯作品
+* [Snip](http://snip.qq.com/) - 高效的截图工具，支持滚动截屏，腾讯作品
+* [iPic](http://toolinbox.net/iPic/) - 上传图片至七牛、阿里云等图床，支持 Markdown 链接
+* [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能
+* [svgus ](http://www.svgs.us/)- SVG 图片管理器
+* [RightFont](https://rightfontapp.com/) - 字体管理工具
+* [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持iTerm、Intellij IDEA、Vim等
