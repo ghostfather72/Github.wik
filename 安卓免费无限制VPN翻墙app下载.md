@@ -24,4 +24,6 @@ PureVPN [最好的免费VPN APK](https://download.apkpure.com/b/apk/Y29tLmdhZGl0
 ExpressVPN [最佳Android VPN APK](https://apkpure.com/expressvpn-best-android-vpn/com.expressvpn.vpn/download?from=details)
 
 翻墙VPN免费版 [下载链接](https://apkpure.com/%E7%BF%BB%E5%A2%99-vpn%EF%BC%88%E5%85%8D%E8%B4%B9%E7%89%88%EF%BC%89/lantern.super.a201705231136.vpn/download?from=details)
+
+萤火虫:[下载链接](https://apps.evozi.com/apk-downloader/?id=google.com.FireflyVPN)
 ## 本文地址:https://github.com/gugejun/luan/wiki
