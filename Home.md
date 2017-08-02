@@ -79,3 +79,9 @@
 * [tinc ](https://www.tinc-vpn.org/)- VPN软件
 * [Shimo ](https://www.shimovpn.com/)- 连接大量VPN的应用
 * [V2Ray](https://www.v2ray.com/) - 原生支持Socks、HTTP、Shadowsocks、VMess 等协议
+### 正版/介绍
+* MacUpdate：https://www.macupdate.com/
+* App Shopper：http://appshopper.com/
+* 类似于iOS上Cydia一样的第三方软件商店：http://hack-store.com
+* 少数派：http://sspai.com/tag/Mac
+* Mac玩儿法：http://www.waerfa.com
