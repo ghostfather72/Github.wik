@@ -75,5 +75,5 @@
 ![图](https://raw.githubusercontent.com/bringbird/WJFirstRespository/master/image/21.png)
 
 
-# [恭喜你，已经成功的上传项目到自己的github仓库了](https://github.com/gugejun/luan/wiki)
+# [恭喜你，已经成功的上传项目到自己的仓库了](https://github.com/gugejun/luan/wiki)
 
