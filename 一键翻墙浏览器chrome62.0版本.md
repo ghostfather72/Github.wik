@@ -1,7 +1,7 @@
 _如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。_
 
 ***
-# [使用方法：下载后解压，按截图里面的说明（必看）操作](https://github.com/gugejun/Github/wiki)
+### [使用方法：下载后解压，按截图里面的说明（必看）操作](https://github.com/gugejun/Github/wiki)
 
 ***
 
@@ -43,7 +43,7 @@ _更新于2017-08-08_
 ***
 # chrome62.0 GoProxy版
 ### 盛天云盘 [下载](http://pan.stnts.com/s/RTX0Ogg)
-### [百度网盘](https://pan.baidu.com/s/1cgx7zS)提取密码d1ac
+### 百度网盘 [下载](https://pan.baidu.com/s/1c2tQEek)提取密码u66a
 
 
 _来信交流       [Twitter](https://twitter.com/gugejun)_
