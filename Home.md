@@ -115,4 +115,4 @@
 
 
 
-**主页地址:https://github.com/gugejun/luan/wiki**
+**主页地址:https://github.com/gugejun/github/wiki**
