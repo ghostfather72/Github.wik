@@ -34,6 +34,8 @@ Timhbw博客:[账号限时分享](https://www.huangbowei.com/archives/117.html)
 
 TOP-YUN FREE :[SHADOWSOCKS](http://ss.top-yun.pw/index/index.html)
 
+不死鸟:[免费账号](http://yuweining.cn/niepan/)
+
 
 
 **免费SS帐号属于稀缺免费资源，诸君且用且珍惜，不要滥用下载、禁止发送垃圾邮件，欢迎任何理性反馈，谢绝任何形式的语言暴力，在任何地方都不要把你的问题随意丢给别人去为你承担，善用搜索引擎，学习的能力比解决问题的能力更重要！**
