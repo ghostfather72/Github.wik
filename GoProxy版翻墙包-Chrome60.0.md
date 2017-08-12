@@ -1,3 +1,5 @@
+![图](https://github.com/gugejun/Picture/blob/master/timg.jpg?raw=true)
+
 * 适合win7及以上系统
 * 升级GoProxy至1533版
 * 去除浏览器内置的证书文件
