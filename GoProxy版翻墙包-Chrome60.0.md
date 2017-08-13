@@ -6,3 +6,12 @@
 * 画面出现红色的时候，记得运行ip更新文件
 > 
 ### 百度网盘  [点击下载](https://pan.baidu.com/s/1hrPq8Uo) 提取密码weww
+
+
+
+***
+### 以下是chrome  SwitchyOmega代理安装，想玩的自行[下载pac](https://github.com/gugejun/pac)
+
+![图](https://raw.githubusercontent.com/gugejun/Picture/master/git.png)
+
+## [点击安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
