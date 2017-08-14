@@ -60,7 +60,7 @@
 1. 赛风[Psiphon](https://apkpure.com/psiphon/com.psiphon3/download?from=details)
 
 
-1. 更多    [下载](https://twitter.com/jesonming/status/894711190819155969)
+1. 更多    [下载](https://www.bypasscensorship.org/zh-hans/tools)
 
 
 ## 本文地址:https://github.com/gugejun/luan/wiki
