@@ -1,7 +1,7 @@
 ### > [Home](http://haixing-hu.github.io/gift-to-lover/repo/src/index.html) > [homepage](https://github.com/gugejun)  > [Music](http://music.163.com/#/m/playlist?id=692839474&userid=450862554)                                                          
  
  
-![图](http://pic.qiantucdn.com/58pic/19/99/20/56k58PIC8qu_1024.jpg)
+![图](https://raw.githubusercontent.com/gugejun/Picture/8fb6487fd690e3c41c2757196da4001a39133b75/timg.gif)
    
  ### 版本控制系统
 * [GitLab](https://about.gitlab.com/) - 一个用于仓库管理系统的开源项目。Freeware hot tuijian 必备
