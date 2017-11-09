@@ -26,7 +26,9 @@
 ![图](https://github.com/gugejun/Picture/blob/master/1.png?raw=true)
 
 接下来添加规则列表网址，已迁移到[github参考](https://github.com/gfwlist/gfwlist)
-最新地址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+最新地址：https://raw.githubusercontent.com/bfwlist/web/master/a.txt
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
 
 
 ### 依次改成自动切换模式
